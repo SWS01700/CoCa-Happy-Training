@@ -11,4 +11,5 @@ def factorial(num):
     #                      factorial(2) => 2*factorial(1) => 2 * 1 
 
 
-print(factorial(3))
+a = [1,2,3,4]
+print(a[1])
